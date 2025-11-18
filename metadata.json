@@ -1,0 +1,5 @@
+{
+  "name": "Content Moderation Platform",
+  "description": "A web application that replicates a content moderation dashboard, allowing users to review and take action on various content items. It features a detailed layout with filtering options, content cards, and moderation controls.",
+  "requestFramePermissions": []
+}
