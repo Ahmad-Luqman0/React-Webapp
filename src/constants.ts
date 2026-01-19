@@ -29,6 +29,7 @@ export const SUB_TABS_BY_COUNTRY: { [key: string]: SubTab[] } = {
   'Indonesia': [
     { name: 'Indonesia-General', count: 2 },
     { name: 'Indonesia-Priority-Ads', count: 0 },
+    { name: 'Gaming – Security Review – Indonesia Queue' , count: 96},
   ],
   'Mexico': [
     { name: 'Mexico-Primary', count: 0 },
